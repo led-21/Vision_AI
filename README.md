@@ -15,4 +15,4 @@ Para extrair textos de imagens você deve escolher o serviço **Extract text fro
 ![Resultado](/output/Resultado.png)
 
 ## Possibilidades
-Uma das possibilidades é a leitura dos números de série da cédula de forma automatizada.
+Uma das possibilidades é a leitura do número de série da cédula de forma automatizada.
