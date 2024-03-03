@@ -5,11 +5,14 @@ Para utilizar esse serviço é necessario antes criar um recurso do tipo *Cognit
 
 ![Tela Vision Studio](/VisionStudio.png)
 
-# Read text in Vision Studio
-Para extrair testo de imagens você deve escolher o serviço **Extract text from images**.
+# Leitura de texto no Vision Studio
+Para extrair textos de imagens você deve escolher o serviço **Extract text from images**.
 
 ## Imagem de entrada
 ![Imagem 100 reais](/inputs/img_100.jpg)
 
 ## Tela do Resultado
 ![Resultado](/output/Resultado.png)
+
+## Possibilidade
+Uma das possibilidades seria a leitura dos números de série da cédula de forma automatizada.
